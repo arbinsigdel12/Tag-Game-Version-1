@@ -1,3 +1,3 @@
 # Tag-Game-Version-1
-My first try to create a simple game without and tutorials. It worked quite well \n
+My first try to create a simple game without and tutorials. It worked quite well <br>
 This is the the beginning version and i am currently worjing to improve it
